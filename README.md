@@ -1,5 +1,5 @@
 # quick-test
 
-#Subtitle
+## Subtitle
 
 Some description here.
